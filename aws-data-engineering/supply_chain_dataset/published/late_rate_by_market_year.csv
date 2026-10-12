@@ -1,0 +1,53 @@
+order_year,market,shipping_mode,non_canceled_orders,late_orders,late_pct
+2015,Europe,First Class,1246,1246,100.0
+2015,Europe,Same Day,417,182,43.6
+2015,Europe,Second Class,1551,1245,80.3
+2015,Europe,Standard Class,4751,1901,40.0
+2015,LATAM,First Class,1232,1232,100.0
+2015,LATAM,Same Day,433,223,51.5
+2015,LATAM,Second Class,1592,1272,79.9
+2015,LATAM,Standard Class,4946,1956,39.5
+2015,Pacific Asia,First Class,567,567,100.0
+2015,Pacific Asia,Same Day,216,96,44.4
+2015,Pacific Asia,Second Class,755,604,80.0
+2015,Pacific Asia,Standard Class,2289,907,39.6
+2016,Africa,First Class,493,493,100.0
+2016,Africa,Same Day,202,97,48.0
+2016,Africa,Second Class,608,493,81.1
+2016,Africa,Standard Class,1991,797,40.0
+2016,Europe,First Class,206,206,100.0
+2016,Europe,Same Day,61,22,36.1
+2016,Europe,Second Class,239,187,78.2
+2016,Europe,Standard Class,719,292,40.6
+2016,Pacific Asia,First Class,1120,1120,100.0
+2016,Pacific Asia,Same Day,380,169,44.5
+2016,Pacific Asia,Second Class,1436,1154,80.4
+2016,Pacific Asia,Standard Class,4360,1781,40.8
+2016,USCA,First Class,1271,1271,100.0
+2016,USCA,Same Day,443,203,45.8
+2016,USCA,Second Class,1605,1282,79.9
+2016,USCA,Standard Class,4821,1930,40.0
+2017,Africa,First Class,43,43,100.0
+2017,Africa,Same Day,21,8,38.1
+2017,Africa,Second Class,77,58,75.3
+2017,Africa,Standard Class,254,97,38.2
+2017,Europe,First Class,1301,1301,100.0
+2017,Europe,Same Day,471,253,53.7
+2017,Europe,Second Class,1669,1341,80.3
+2017,Europe,Standard Class,5132,2023,39.4
+2017,LATAM,First Class,1266,1266,100.0
+2017,LATAM,Same Day,437,219,50.1
+2017,LATAM,Second Class,1568,1238,79.0
+2017,LATAM,Standard Class,4940,1933,39.1
+2017,Pacific Asia,First Class,535,535,100.0
+2017,Pacific Asia,Same Day,210,125,59.5
+2017,Pacific Asia,Second Class,722,579,80.2
+2017,Pacific Asia,Standard Class,2226,888,39.9
+2017,USCA,First Class,1,1,100.0
+2017,USCA,Same Day,4,1,25.0
+2017,USCA,Second Class,9,7,77.8
+2017,USCA,Standard Class,24,9,37.5
+2018,Pacific Asia,First Class,321,321,100.0
+2018,Pacific Asia,Same Day,112,50,44.6
+2018,Pacific Asia,Second Class,425,343,80.7
+2018,Pacific Asia,Standard Class,1179,481,40.8

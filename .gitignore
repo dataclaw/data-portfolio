@@ -1,0 +1,7 @@
+
+
+# Local DataCo source data (contains sensitive fields; never commit)
+aws-data-engineering/supply_chain_dataset/*.csv
+aws-data-engineering/supply_chain_dataset/data/
+aws-data-engineering/supply_chain_dataset/logs/
+# Local DataCo source data and generated ingestion output (contains sensitive fields; never commit)

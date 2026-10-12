@@ -1,0 +1,5 @@
+shipping_mode,total_orders,canceled_orders,canceled_pct,late_orders,on_time_orders,advance_orders,non_canceled_orders,late_pct_of_non_canceled
+First Class,10079,477,4.7,9602,0,0,9602,100.0
+Same Day,3571,164,4.6,1648,1759,0,3407,48.4
+Second Class,12778,522,4.1,9803,2453,0,12256,80.0
+Standard Class,39324,1692,4.3,14995,7510,15127,37632,39.8
