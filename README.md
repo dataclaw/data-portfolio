@@ -57,3 +57,10 @@ py -3.14 delivery_kpis.py
 py -3.14 plot_delivery_kpis.py
 py -3.14 delivery_mode_stats.py
 py -3.14 late_rate_by_market_year.py
+```
+
+### AWS implementation files
+
+The `aws/glue/` folder contains a Glue ETL script for building the analytical tables. The `sql/athena/` folder contains Athena table definitions and analysis queries. The data model was built and validated locally with SQLite; the Glue and Athena code is prepared for AWS but has not been run against AWS services.
+
+To use the Athena table definitions, replace `YOUR_BUCKET_NAME` in the S3 locations with your bucket name.
